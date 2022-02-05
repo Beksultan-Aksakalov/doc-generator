@@ -1,1 +1,1 @@
-# doc-generator
+# document-generator
