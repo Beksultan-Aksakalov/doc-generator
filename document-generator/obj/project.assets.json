@@ -1659,11 +1659,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\source\\git\\document-generator\\document-generator\\document-generator.csproj",
+      "projectUniqueName": "B:\\source\\git\\doc-generator\\document-generator\\document-generator.csproj",
       "projectName": "document-generator",
-      "projectPath": "B:\\source\\git\\document-generator\\document-generator\\document-generator.csproj",
+      "projectPath": "B:\\source\\git\\doc-generator\\document-generator\\document-generator.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "B:\\source\\git\\document-generator\\document-generator\\obj\\",
+      "outputPath": "B:\\source\\git\\doc-generator\\document-generator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1683,11 +1683,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "B:\\source\\git\\document-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj": {
-              "projectPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj"
+            "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj": {
+              "projectPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj"
             },
-            "B:\\source\\git\\document-generator\\PdfSharpCore\\MigraDocCore.Rendering\\MigraDocCore.Rendering.csproj": {
-              "projectPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\MigraDocCore.Rendering\\MigraDocCore.Rendering.csproj"
+            "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.Rendering\\MigraDocCore.Rendering.csproj": {
+              "projectPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.Rendering\\MigraDocCore.Rendering.csproj"
             }
           }
         }

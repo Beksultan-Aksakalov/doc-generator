@@ -1,4 +1,4 @@
-﻿using document_generator.Model;
+﻿using document_generator.Models;
 using document_generator.Razmetka;
 using Microsoft.AspNetCore.Mvc;
 using MigraDocCore.Rendering;
@@ -13,7 +13,7 @@ namespace document_generator.Controller
 
         [HttpPost]
         [Route("auto")]
-        public IActionResult Post([FromBody]AutoDocument doc)
+        public IActionResult Post([FromBody] PowerOfAttorneyAutoSaleDocument doc)
         {
             var document = AutoRazmetka.getAutoDoc(doc);
             document.UseCmykColor = true;

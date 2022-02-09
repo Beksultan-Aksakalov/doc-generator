@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\source\\git\\document-generator\\document-generator\\document-generator.csproj": {}
+    "B:\\source\\git\\doc-generator\\document-generator\\document-generator.csproj": {}
   },
   "projects": {
-    "B:\\source\\git\\document-generator\\document-generator\\document-generator.csproj": {
+    "B:\\source\\git\\doc-generator\\document-generator\\document-generator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\source\\git\\document-generator\\document-generator\\document-generator.csproj",
+        "projectUniqueName": "B:\\source\\git\\doc-generator\\document-generator\\document-generator.csproj",
         "projectName": "document-generator",
-        "projectPath": "B:\\source\\git\\document-generator\\document-generator\\document-generator.csproj",
+        "projectPath": "B:\\source\\git\\doc-generator\\document-generator\\document-generator.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "B:\\source\\git\\document-generator\\document-generator\\obj\\",
+        "outputPath": "B:\\source\\git\\doc-generator\\document-generator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,11 +31,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "B:\\source\\git\\document-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj": {
-                "projectPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj"
+              "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj": {
+                "projectPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj"
               },
-              "B:\\source\\git\\document-generator\\PdfSharpCore\\MigraDocCore.Rendering\\MigraDocCore.Rendering.csproj": {
-                "projectPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\MigraDocCore.Rendering\\MigraDocCore.Rendering.csproj"
+              "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.Rendering\\MigraDocCore.Rendering.csproj": {
+                "projectPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.Rendering\\MigraDocCore.Rendering.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "B:\\source\\git\\document-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj": {
+    "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\source\\git\\document-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj",
+        "projectUniqueName": "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj",
         "projectName": "MigraDocCore.DocumentObjectModel",
-        "projectPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj",
+        "projectPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\obj\\",
+        "outputPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -100,16 +100,16 @@
           "netstandard1.3": {
             "targetAlias": "netstandard1.3",
             "projectReferences": {
-              "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj": {
-                "projectPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj"
+              "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj": {
+                "projectPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj"
               }
             }
           },
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj": {
-                "projectPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj"
+              "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj": {
+                "projectPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj"
               }
             }
           }
@@ -176,14 +176,14 @@
         }
       }
     },
-    "B:\\source\\git\\document-generator\\PdfSharpCore\\MigraDocCore.Rendering\\MigraDocCore.Rendering.csproj": {
+    "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.Rendering\\MigraDocCore.Rendering.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\source\\git\\document-generator\\PdfSharpCore\\MigraDocCore.Rendering\\MigraDocCore.Rendering.csproj",
+        "projectUniqueName": "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.Rendering\\MigraDocCore.Rendering.csproj",
         "projectName": "MigraDocCore.Rendering",
-        "projectPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\MigraDocCore.Rendering\\MigraDocCore.Rendering.csproj",
+        "projectPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.Rendering\\MigraDocCore.Rendering.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\MigraDocCore.Rendering\\obj\\",
+        "outputPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.Rendering\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -205,28 +205,28 @@
           "netstandard1.3": {
             "targetAlias": "netstandard1.3",
             "projectReferences": {
-              "B:\\source\\git\\document-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj": {
-                "projectPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj"
+              "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj": {
+                "projectPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj"
               },
-              "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore.Charting\\PdfSharpCore.Charting.csproj": {
-                "projectPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore.Charting\\PdfSharpCore.Charting.csproj"
+              "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore.Charting\\PdfSharpCore.Charting.csproj": {
+                "projectPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore.Charting\\PdfSharpCore.Charting.csproj"
               },
-              "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj": {
-                "projectPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj"
+              "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj": {
+                "projectPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj"
               }
             }
           },
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "B:\\source\\git\\document-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj": {
-                "projectPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj"
+              "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj": {
+                "projectPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj"
               },
-              "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore.Charting\\PdfSharpCore.Charting.csproj": {
-                "projectPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore.Charting\\PdfSharpCore.Charting.csproj"
+              "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore.Charting\\PdfSharpCore.Charting.csproj": {
+                "projectPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore.Charting\\PdfSharpCore.Charting.csproj"
               },
-              "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj": {
-                "projectPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj"
+              "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj": {
+                "projectPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj"
               }
             }
           }
@@ -293,14 +293,14 @@
         }
       }
     },
-    "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore.Charting\\PdfSharpCore.Charting.csproj": {
+    "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore.Charting\\PdfSharpCore.Charting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore.Charting\\PdfSharpCore.Charting.csproj",
+        "projectUniqueName": "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore.Charting\\PdfSharpCore.Charting.csproj",
         "projectName": "PdfSharpCore.Charting",
-        "projectPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore.Charting\\PdfSharpCore.Charting.csproj",
+        "projectPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore.Charting\\PdfSharpCore.Charting.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore.Charting\\obj\\",
+        "outputPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore.Charting\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -322,16 +322,16 @@
           "netstandard1.3": {
             "targetAlias": "netstandard1.3",
             "projectReferences": {
-              "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj": {
-                "projectPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj"
+              "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj": {
+                "projectPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj"
               }
             }
           },
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj": {
-                "projectPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj"
+              "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj": {
+                "projectPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj"
               }
             }
           }
@@ -390,14 +390,14 @@
         }
       }
     },
-    "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj": {
+    "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj",
+        "projectUniqueName": "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj",
         "projectName": "PdfSharpCore",
-        "projectPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj",
+        "projectPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore\\PdfSharpCore.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "B:\\source\\git\\document-generator\\PdfSharpCore\\PdfSharpCore\\obj\\",
+        "outputPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\PdfSharpCore\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

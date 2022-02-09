@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "03V5tR7dD6P0kpNxxJuC7hhmy2PZ+bu8OOZgQ2Eu37PDLYH6dElpkA7uFYhK4sHsoo2i1GOt7UJqiOZHbhNwlg==",
+  "dgSpecHash": "2DKllPBVnZTC2mHYs/Of3uDFhJzpODq2fyccGf6Z3EEZh1Ev5mDWLVDxyDArnsLit/E9lku5CzsmXhCvFoC6ww==",
   "success": true,
-  "projectFilePath": "B:\\source\\git\\document-generator\\document-generator\\document-generator.csproj",
+  "projectFilePath": "B:\\source\\git\\doc-generator\\document-generator\\document-generator.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
