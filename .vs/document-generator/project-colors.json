@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "44c50401-f826-4cd9-bee3-f19c9bb71a9c": {
+      "ProjectGuid": "44c50401-f826-4cd9-bee3-f19c9bb71a9c",
+      "DisplayName": "document-generator",
+      "ColorIndex": 0
+    },
+    "2ff21fce-e3de-4b28-8cce-bf2954ad40cc": {
+      "ProjectGuid": "2ff21fce-e3de-4b28-8cce-bf2954ad40cc",
+      "DisplayName": "PdfSharpCore.Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

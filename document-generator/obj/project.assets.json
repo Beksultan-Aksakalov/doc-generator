@@ -1653,23 +1653,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\source\\git\\doc-generator\\document-generator\\document-generator.csproj",
+      "projectUniqueName": "D:\\git\\doc-generator\\document-generator\\document-generator.csproj",
       "projectName": "document-generator",
-      "projectPath": "B:\\source\\git\\doc-generator\\document-generator\\document-generator.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "B:\\source\\git\\doc-generator\\document-generator\\obj\\",
+      "projectPath": "D:\\git\\doc-generator\\document-generator\\document-generator.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\git\\doc-generator\\document-generator\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1683,11 +1679,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj": {
-              "projectPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj"
+            "D:\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj": {
+              "projectPath": "D:\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.DocumentObjectModel\\MigraDocCore.DocumentObjectModel.csproj"
             },
-            "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.Rendering\\MigraDocCore.Rendering.csproj": {
-              "projectPath": "B:\\source\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.Rendering\\MigraDocCore.Rendering.csproj"
+            "D:\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.Rendering\\MigraDocCore.Rendering.csproj": {
+              "projectPath": "D:\\git\\doc-generator\\PdfSharpCore\\MigraDocCore.Rendering\\MigraDocCore.Rendering.csproj"
             }
           }
         }
@@ -1719,7 +1715,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
